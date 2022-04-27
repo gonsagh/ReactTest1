@@ -11,7 +11,7 @@ function App() {
           pais='Suecia'
           imagen=''
           cargo='Inegeniera Software'
-          empresa='Spotify Gonzalo Asus Pasado por PC 2'
+          empresa='Spotify'
           testimonio='lorem ipsomn lore0m psomn lorem ipsomn lorem ipsomn lorem ipsomn lorem ipsomn'
           />
       </div>
